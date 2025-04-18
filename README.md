@@ -10,15 +10,15 @@ Código e modelagem do banco de dados estão localizados nos outros branchs.
 
 ## Dados Pre-Inseridos no Bando de Dados
 
---> INSERT INTO ADM (CPF, Nome, Email, Celular, Senha) VALUES
+- INSERT INTO ADM (CPF, Nome, Email, Celular, Senha) VALUES
 ('15161444657', 'Felipe Mendes', 'felipe.davila.bh@gmail.com', '31971740540', 'robin'),
 ('14578455856', 'Maria Eduarda', 'duda@gmail.com', '31975489526', '123');
 
---> INSERT INTO Estabelecimento (Nome, Local, CNPJ) VALUES
+- INSERT INTO Estabelecimento (Nome, Local, CNPJ) VALUES
 ('CAIXA', 'BH', '12.345.678/0001-90'),
 ('Loterica Green', 'SP', '98.765.432/0001-01');
 
---> INSERT INTO User (Nome, Email, Celular, Senha, CPF, Pontos) VALUES ('Marcio Fantini', 'mf@gmail.com', '31999555724', '123', 'cpf', 0);
+- INSERT INTO User (Nome, Email, Celular, Senha, CPF, Pontos) VALUES ('Marcio Fantini', 'mf@gmail.com', '31999555724', '123', 'cpf', 0);
 
 ## LINK de acesso
 
