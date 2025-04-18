@@ -2,9 +2,11 @@
 
 Linguagens utilizadas: PHP, MySql, HTML/CSS
 
-## Proposta
+## Descrição
 
 A proposta é fazer um programa que pudesse contabilizar compras, somar pontos e sortear um vencedor, como uma lotérica. É possível logar como Estabelecimento(lotérica), User ou ADM. A quantidade de pontos(1R$ = 1 ponto) acumulada por cada usuário será revertida em sua probabilidade de vencer o sorteio. Alguns dados estão pré inseridos pra facilitar testes e a funcionalidade do programa.
+
+Código e modelagem do banco de dados estão localizados nos outros branchs.
 
 ## Dados Pre-Inseridos no Bando de Dados
 
